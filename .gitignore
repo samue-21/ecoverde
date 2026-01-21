@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.log
+*.tmp
+*.db
+*.sqlite*
+backup_config.json
+credentials.json
+token.pickle
