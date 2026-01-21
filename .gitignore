@@ -13,3 +13,4 @@ dist/
 backup_config.json
 credentials.json
 token.pickle
+contracts/
